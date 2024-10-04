@@ -27,4 +27,4 @@ client.on('message', message => {
 require('./server');
 
 
-client.login("MTI5MDU2NTUzNjQ4MDIzMTQyNA.GnMZZi.UuknjnRI3y-x-u4tRzKXpi4Lil30DwPpiaJTvc");
+client.login("MTI5MDU2NTUzNjQ4MDIzMTQyNA.Gd3zOJ.XeMCRLDPFqNrcgGHQ16snrcbSGvsiQ0O7i58Z0");
