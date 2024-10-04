@@ -27,4 +27,4 @@ client.on('message', message => {
 require('./server');
 
 
-client.login("MTI5MDU2NTUzNjQ4MDIzMTQyNA.Gd3zOJ.XeMCRLDPFqNrcgGHQ16snrcbSGvsiQ0O7i58Z0");
+client.login(process.env.token);
